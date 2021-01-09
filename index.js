@@ -45,4 +45,4 @@ ipc.on('open-file-dialog-for-file',function(event){
             console.log("error in here :",err)
         })
     }
-})
+}) 
